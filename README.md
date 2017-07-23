@@ -34,3 +34,4 @@ CircleCI can be run locally, see [https://circleci.com/docs/2.0/local-jobs/](htt
 ### Links:
 - https://circleci.com/docs/2.0/about-circleci/
 - https://hub.docker.com/r/brettt89/silverstripe-web/
+- https://circleci.com/blog/slack-integration/
